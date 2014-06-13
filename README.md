@@ -1,4 +1,4 @@
 julia.note
 ==========
 
-Has [wiki](../../wiki).
+Contains [wiki](../../wiki).
