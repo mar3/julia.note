@@ -1,4 +1,1 @@
-julia.note
-==========
-
-Contains [wiki](../../wiki).
+contains [wiki](../../wiki).
