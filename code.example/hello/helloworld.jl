@@ -4,11 +4,16 @@
 # 日本語OK?
 #
 
-println("Hello Julia World.");
-println("Hello Julia World.");
-println("Hello Julia World.");
+function _main()
 
-println("日本語を表示できます。");
-println("日本語を表示できます。");
-println("日本語を表示できます。");
+	println("Hello Julia World.");
+	println("Hello Julia World.");
+	println("Hello Julia World.");
 
+	println("日本語を表示できます。");
+	println("日本語を表示できます。");
+	println("日本語を表示できます。");
+
+end
+
+_main();
