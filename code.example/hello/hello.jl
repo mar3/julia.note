@@ -7,11 +7,6 @@
 function _main()
 
 	println("Hello Julia World.");
-	println("Hello Julia World.");
-	println("Hello Julia World.");
-
-	println("日本語を表示できます。");
-	println("日本語を表示できます。");
 	println("日本語を表示できます。");
 
 end
